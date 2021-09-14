@@ -1,0 +1,3766 @@
+[
+  {
+    "id": 2,
+    "name": "人工智能",
+    "father_id": 1,
+    "introduction": [
+      "人工智能",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "ceng_ji": 2,
+    "path": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 3,
+    "name": "区块链",
+    "father_id": 1,
+    "introduction": [
+      "区块链",
+      "Blockchain"
+    ],
+    "ceng_ji": 2,
+    "path": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "name": "大数据",
+    "father_id": 1,
+    "introduction": [
+      "big data",
+      "大数据"
+    ],
+    "ceng_ji": 2,
+    "path": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": 5,
+    "name": "云计算",
+    "father_id": 1,
+    "introduction": [
+      "云计算",
+      "cloud computing"
+    ],
+    "ceng_ji": 2,
+    "path": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": 6,
+    "name": "智能制造",
+    "father_id": 1,
+    "introduction": [
+      "智能制造",
+      "Intelligent Manufacturing"
+    ],
+    "ceng_ji": 2,
+    "path": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 7,
+    "name": "物联网",
+    "father_id": 1,
+    "introduction": [
+      "物联网",
+      "The Internet of Things",
+      "IOT"
+    ],
+    "ceng_ji": 2,
+    "path": [
+      1,
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "name": "5G",
+    "father_id": 1,
+    "introduction": [
+      "5th generation wireless systems",
+      "5th-Generation",
+      "第五代移动通信技术",
+      "5th generation mobile networks",
+      "5G"
+    ],
+    "ceng_ji": 2,
+    "path": [
+      1,
+      9
+    ]
+  },
+  {
+    "id": 10,
+    "name": "互联网",
+    "father_id": 1,
+    "introduction": [
+      "国际网络",
+      "internet",
+      "互联网"
+    ],
+    "ceng_ji": 2,
+    "path": [
+      1,
+      10
+    ]
+  },
+  {
+    "id": 11,
+    "name": "智能芯片",
+    "father_id": 1,
+    "introduction": [
+      "Smart chip",
+      "intelligent chip",
+      "智能芯片"
+    ],
+    "ceng_ji": 2,
+    "path": [
+      1,
+      11
+    ]
+  },
+  {
+    "id": 16,
+    "name": "人工智能应用",
+    "father_id": 2,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      2,
+      16
+    ]
+  },
+  {
+    "id": 210,
+    "name": "区块链基础设施",
+    "father_id": 3,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      3,
+      210
+    ]
+  },
+  {
+    "id": 211,
+    "name": "区块链关键技术",
+    "father_id": 3,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      3,
+      211
+    ]
+  },
+  {
+    "id": 213,
+    "name": "区块链应用",
+    "father_id": 3,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      3,
+      213
+    ]
+  },
+  {
+    "id": 311,
+    "name": "大数据基础设施",
+    "father_id": 4,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      4,
+      311
+    ]
+  },
+  {
+    "id": 313,
+    "name": "大数据技术",
+    "father_id": 4,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      4,
+      313
+    ]
+  },
+  {
+    "id": 314,
+    "name": "大数据应用",
+    "father_id": 4,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      4,
+      314
+    ]
+  },
+  {
+    "id": 315,
+    "name": "大数据产业支撑",
+    "father_id": 4,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      4,
+      315
+    ]
+  },
+  {
+    "id": 386,
+    "name": "云计算基础设施",
+    "father_id": 5,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      5,
+      386
+    ]
+  },
+  {
+    "id": 387,
+    "name": "云计算关键技术",
+    "father_id": 5,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      5,
+      387
+    ]
+  },
+  {
+    "id": 388,
+    "name": "云计算支撑技术",
+    "father_id": 5,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      5,
+      388
+    ]
+  },
+  {
+    "id": 413,
+    "name": "智能制造基础研究",
+    "father_id": 6,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      6,
+      413
+    ]
+  },
+  {
+    "id": 414,
+    "name": "智能制造关键技术",
+    "father_id": 6,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      6,
+      414
+    ]
+  },
+  {
+    "id": 415,
+    "name": "智能制造应用",
+    "father_id": 6,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      6,
+      415
+    ]
+  },
+  {
+    "id": 444,
+    "name": "物联网硬件设备设施",
+    "father_id": 7,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      7,
+      444
+    ]
+  },
+  {
+    "id": 445,
+    "name": "物联网关键技术",
+    "father_id": 7,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      7,
+      445
+    ]
+  },
+  {
+    "id": 446,
+    "name": "物联网应用领域",
+    "father_id": 7,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      7,
+      446
+    ]
+  },
+  {
+    "id": 511,
+    "name": "6G",
+    "father_id": 9,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      9,
+      511
+    ]
+  },
+  {
+    "id": 643,
+    "name": "互联网硬件设备设施",
+    "father_id": 10,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      10,
+      643
+    ]
+  },
+  {
+    "id": 644,
+    "name": "互联网关键技术",
+    "father_id": 10,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      10,
+      644
+    ]
+  },
+  {
+    "id": 645,
+    "name": "互联网应用",
+    "father_id": 10,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      10,
+      645
+    ]
+  },
+  {
+    "id": 646,
+    "name": "互联网典型特征",
+    "father_id": 10,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      10,
+      646
+    ]
+  },
+  {
+    "id": 700,
+    "name": "智能芯片硬件",
+    "father_id": 11,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      11,
+      700
+    ]
+  },
+  {
+    "id": 701,
+    "name": "智能芯片关键技术",
+    "father_id": 11,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      11,
+      701
+    ]
+  },
+  {
+    "id": 702,
+    "name": "智能芯片应用领域",
+    "father_id": 11,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 3,
+    "path": [
+      1,
+      11,
+      702
+    ]
+  },
+  {
+    "id": 17,
+    "name": "智能传感器",
+    "father_id": 12,
+    "introduction": [
+      "智能传感器",
+      "传感器"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      12,
+      17
+    ]
+  },
+  {
+    "id": 18,
+    "name": "分布式计算框架",
+    "father_id": 12,
+    "introduction": [
+      "Samza",
+      "Keras",
+      "Torch7",
+      "Caffe",
+      "CNTK",
+      "Spark",
+      "Storm",
+      "OpenStack",
+      "分布式计算框架",
+      "BigFlow",
+      "Leaf",
+      "开源深度学习框架",
+      "TensorFlow",
+      "MXNet",
+      "Hadoop"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      12,
+      18
+    ]
+  },
+  {
+    "id": 19,
+    "name": "量子计算机",
+    "father_id": 12,
+    "introduction": [
+      "量子隧穿效应",
+      "Bell不等式",
+      "不确定性原理",
+      "量子纠错",
+      "量子加速",
+      "GROVER迭代",
+      "量子计算机",
+      "量子认知",
+      "GROVER算法",
+      "量子信息"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      12,
+      19
+    ]
+  },
+  {
+    "id": 20,
+    "name": "网络基础设施",
+    "father_id": 12,
+    "introduction": [
+      "网络基础设施"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      12,
+      20
+    ]
+  },
+  {
+    "id": 21,
+    "name": "大数据智能",
+    "father_id": 13,
+    "introduction": [
+      "知识引导",
+      "大数据智能",
+      "认知计算模型",
+      "数据驱动"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      13,
+      21
+    ]
+  },
+  {
+    "id": 22,
+    "name": "跨媒体智能",
+    "father_id": 13,
+    "introduction": [
+      "复杂场景主动感知",
+      "自然环境听觉与言语感知",
+      "跨媒体智能",
+      "多媒体自主学习",
+      "低成本低能耗智能感知",
+      "超人感知"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      13,
+      22
+    ]
+  },
+  {
+    "id": 23,
+    "name": "群体智能",
+    "father_id": 13,
+    "introduction": [
+      "多智能体",
+      "群体智能",
+      "蚁群算法",
+      "分布式人工智能",
+      "免疫算法",
+      "群体决策",
+      "协同进化",
+      "社区发现",
+      "粒子群优化",
+      "人工免疫系统",
+      "众包计算",
+      "进化算法",
+      "协同决策",
+      "多Agent系统",
+      "群智激励算法"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      13,
+      23
+    ]
+  },
+  {
+    "id": 24,
+    "name": "混合增强智能",
+    "father_id": 13,
+    "introduction": [
+      "混合增强智能",
+      "决策学习",
+      "人机协同",
+      "直觉推理"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      13,
+      24
+    ]
+  },
+  {
+    "id": 25,
+    "name": "自主智能",
+    "father_id": 13,
+    "introduction": [
+      "自主智能",
+      "自主协同",
+      "自主无人系统",
+      "人机物三元协同"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      13,
+      25
+    ]
+  },
+  {
+    "id": 26,
+    "name": "类脑智能",
+    "father_id": 13,
+    "introduction": [
+      "类脑控制",
+      "类脑复杂系统",
+      "类脑智能",
+      "类脑信息"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      13,
+      26
+    ]
+  },
+  {
+    "id": 27,
+    "name": "知识图谱",
+    "father_id": 14,
+    "introduction": [
+      "知识图谱"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      14,
+      27
+    ]
+  },
+  {
+    "id": 29,
+    "name": "自然语言处理",
+    "father_id": 14,
+    "introduction": [
+      "NLP",
+      "自然语言处理"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      14,
+      29
+    ]
+  },
+  {
+    "id": 30,
+    "name": "人机交互",
+    "father_id": 14,
+    "introduction": [
+      "人机交互"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      14,
+      30
+    ]
+  },
+  {
+    "id": 31,
+    "name": "计算机视觉",
+    "father_id": 14,
+    "introduction": [
+      "计算机视觉"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      14,
+      31
+    ]
+  },
+  {
+    "id": 32,
+    "name": "生物特征识别",
+    "father_id": 14,
+    "introduction": [
+      "特征识别"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      14,
+      32
+    ]
+  },
+  {
+    "id": 33,
+    "name": "虚拟现实，增强现实",
+    "father_id": 14,
+    "introduction": [
+      "VR",
+      "增强现实",
+      "AR",
+      "虚拟现实"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      14,
+      33
+    ]
+  },
+  {
+    "id": 34,
+    "name": "专家系统与知识工程",
+    "father_id": 14,
+    "introduction": [
+      "基于模式的专家系统",
+      "专家系统",
+      "expert system shell",
+      "推理机",
+      "model-based expert system",
+      "基于案例的推理",
+      "knowledge engineering tool",
+      "case-based reasoning",
+      "知识库",
+      "知识工程",
+      "不确定度",
+      "产生式系统",
+      "知识工程工具",
+      "knowledge source",
+      "expert system development environment",
+      "解释设施",
+      "rule-based system",
+      "解释机制",
+      "基于模型的系统",
+      "真值维护系统",
+      "K-base",
+      "基于规则的系统",
+      "model-based system",
+      "domain knowledge",
+      "对话部件",
+      "专家系统开发环境",
+      "domain model",
+      "knowledge base",
+      "truth maintenance system",
+      "explanation facility",
+      "dialog component",
+      "production system",
+      "顾问系统",
+      "咨询系统",
+      "领域知识",
+      "advisory system",
+      "领域模型",
+      "uncertainty",
+      "专家系统外壳",
+      "inference engine",
+      "知识源",
+      "K库",
+      "explanation mechanism"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      14,
+      34
+    ]
+  },
+  {
+    "id": 35,
+    "name": "无人系统自主智能",
+    "father_id": 14,
+    "introduction": [
+      "自主智能",
+      "无人系统"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      14,
+      35
+    ]
+  },
+  {
+    "id": 36,
+    "name": "数据挖掘",
+    "father_id": 14,
+    "introduction": [
+      "数据挖掘"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      14,
+      36
+    ]
+  },
+  {
+    "id": 37,
+    "name": "图计算",
+    "father_id": 14,
+    "introduction": [
+      "图计算"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      14,
+      37
+    ]
+  },
+  {
+    "id": 38,
+    "name": "智能机器人",
+    "father_id": 15,
+    "introduction": [
+      "智能机器人",
+      "机器人"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      15,
+      38
+    ]
+  },
+  {
+    "id": 39,
+    "name": "智能运载工具",
+    "father_id": 15,
+    "introduction": [
+      "智能运载工具"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      15,
+      39
+    ]
+  },
+  {
+    "id": 40,
+    "name": "智能终端",
+    "father_id": 15,
+    "introduction": [
+      "智能终端"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      15,
+      40
+    ]
+  },
+  {
+    "id": 41,
+    "name": "智能交通",
+    "father_id": 16,
+    "introduction": [
+      "智能交通",
+      "智慧交通"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      41
+    ]
+  },
+  {
+    "id": 42,
+    "name": "智能安防",
+    "father_id": 16,
+    "introduction": [
+      "智慧安防",
+      "交通事件检测",
+      "区域入侵分析",
+      "人员聚集分析",
+      "智能安防"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      42
+    ]
+  },
+  {
+    "id": 43,
+    "name": "智能医疗",
+    "father_id": 16,
+    "introduction": [
+      "智慧医疗",
+      "智能医疗"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      43
+    ]
+  },
+  {
+    "id": 44,
+    "name": "智慧零售",
+    "father_id": 16,
+    "introduction": [
+      "智慧零售",
+      "智能零售"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      44
+    ]
+  },
+  {
+    "id": 45,
+    "name": "智能金融",
+    "father_id": 16,
+    "introduction": [
+      "智能金融",
+      "智慧金融"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      45
+    ]
+  },
+  {
+    "id": 46,
+    "name": "智能通信",
+    "father_id": 16,
+    "introduction": [
+      "智能通信",
+      "智慧通信"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      46
+    ]
+  },
+  {
+    "id": 47,
+    "name": "智能物流",
+    "father_id": 16,
+    "introduction": [
+      "条形码识别",
+      "智能物流",
+      "智慧物流"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      47
+    ]
+  },
+  {
+    "id": 48,
+    "name": "智能家居",
+    "father_id": 16,
+    "introduction": [
+      "智能家居",
+      "智慧家居"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      48
+    ]
+  },
+  {
+    "id": 49,
+    "name": "智能教育",
+    "father_id": 16,
+    "introduction": [
+      "自动化辅导",
+      "自动批改",
+      "个性化反馈",
+      "预测表现",
+      "智慧教育",
+      "智能教育"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      49
+    ]
+  },
+  {
+    "id": 50,
+    "name": "智慧城市",
+    "father_id": 16,
+    "introduction": [
+      "智能环境",
+      "智能能源",
+      "智慧城市",
+      "智能路灯",
+      "智能建筑"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      50
+    ]
+  },
+  {
+    "id": 51,
+    "name": "智能政务",
+    "father_id": 16,
+    "introduction": [
+      "智能政务",
+      "智慧政务"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      51
+    ]
+  },
+  {
+    "id": 52,
+    "name": "智能法庭",
+    "father_id": 16,
+    "introduction": [
+      "审判能力",
+      "智慧法庭",
+      "智能法庭",
+      "证据收集",
+      "审判体系"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      52
+    ]
+  },
+  {
+    "id": 53,
+    "name": "智慧公安",
+    "father_id": 16,
+    "introduction": [
+      "智慧公安"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      53
+    ]
+  },
+  {
+    "id": 54,
+    "name": "智能环保",
+    "father_id": 16,
+    "introduction": [
+      "区域环境保护",
+      "突发环境事件智能防控体系",
+      "环境监测网络",
+      "资源能源消耗",
+      "污染物排放",
+      "环境监测"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      54
+    ]
+  },
+  {
+    "id": 55,
+    "name": "智慧商业",
+    "father_id": 16,
+    "introduction": [
+      "智慧商业"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      55
+    ]
+  },
+  {
+    "id": 56,
+    "name": "智慧农业",
+    "father_id": 16,
+    "introduction": [
+      "智慧农业"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      56
+    ]
+  },
+  {
+    "id": 57,
+    "name": "智慧旅游",
+    "father_id": 16,
+    "introduction": [
+      "智慧旅游"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      57
+    ]
+  },
+  {
+    "id": 58,
+    "name": "智慧文娱",
+    "father_id": 16,
+    "introduction": [
+      "智慧文娱"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      16,
+      58
+    ]
+  },
+  {
+    "id": 60,
+    "name": "无线传感网络",
+    "father_id": 17,
+    "introduction": [
+      "无线传感网络"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      17,
+      60
+    ]
+  },
+  {
+    "id": 62,
+    "name": "传感器网络",
+    "father_id": 17,
+    "introduction": [
+      "传感器网络"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      2,
+      17,
+      62
+    ]
+  },
+  {
+    "id": 214,
+    "name": "区块链硬件",
+    "father_id": 210,
+    "introduction": [
+      "区块链+硬件"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      3,
+      210,
+      214
+    ]
+  },
+  {
+    "id": 215,
+    "name": "区块链技术",
+    "father_id": 211,
+    "introduction": [
+      "区块链+技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      3,
+      211,
+      215
+    ]
+  },
+  {
+    "id": 217,
+    "name": "P2P动态组网技术",
+    "father_id": 211,
+    "introduction": [
+      "P2P+动态组网"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      3,
+      211,
+      217
+    ]
+  },
+  {
+    "id": 219,
+    "name": "共识算法",
+    "father_id": 211,
+    "introduction": [
+      "共识算法"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      3,
+      211,
+      219
+    ]
+  },
+  {
+    "id": 222,
+    "name": "数字货币，加密货币",
+    "father_id": 211,
+    "introduction": [
+      "加密货币",
+      "数字货币"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      3,
+      211,
+      222
+    ]
+  },
+  {
+    "id": 225,
+    "name": "链上存储技术",
+    "father_id": 211,
+    "introduction": [
+      "链上存储"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      3,
+      211,
+      225
+    ]
+  },
+  {
+    "id": 226,
+    "name": "区块链即服务",
+    "father_id": 212,
+    "introduction": [
+      "区块链即服务",
+      "BaaS",
+      "Blockchain as a Service"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      3,
+      212,
+      226
+    ]
+  },
+  {
+    "id": 320,
+    "name": "数据资源管理技术",
+    "father_id": 313,
+    "introduction": [
+      "数据资源管理"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      4,
+      313,
+      320
+    ]
+  },
+  {
+    "id": 321,
+    "name": "大数据分析技术",
+    "father_id": 313,
+    "introduction": [
+      "大数据分析"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      4,
+      313,
+      321
+    ]
+  },
+  {
+    "id": 322,
+    "name": "大数据软硬件产品",
+    "father_id": 314,
+    "introduction": [
+      "大数据软硬件"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      4,
+      314,
+      322
+    ]
+  },
+  {
+    "id": 323,
+    "name": "大数据平台与服务",
+    "father_id": 314,
+    "introduction": [
+      "大数据+平台与服务"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      4,
+      314,
+      323
+    ]
+  },
+  {
+    "id": 324,
+    "name": "大数据信息安全",
+    "father_id": 315,
+    "introduction": [
+      "大数据信息安全"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      4,
+      315,
+      324
+    ]
+  },
+  {
+    "id": 389,
+    "name": "云计算硬件",
+    "father_id": 386,
+    "introduction": [
+      "云计算硬件"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      5,
+      386,
+      389
+    ]
+  },
+  {
+    "id": 390,
+    "name": "云服务",
+    "father_id": 386,
+    "introduction": [
+      "云服务"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      5,
+      386,
+      390
+    ]
+  },
+  {
+    "id": 391,
+    "name": "容器及容器编排",
+    "father_id": 387,
+    "introduction": [
+      "容器及容器编排"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      5,
+      387,
+      391
+    ]
+  },
+  {
+    "id": 392,
+    "name": "微服务",
+    "father_id": 387,
+    "introduction": [
+      "微服务"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      5,
+      387,
+      392
+    ]
+  },
+  {
+    "id": 393,
+    "name": "集群管理",
+    "father_id": 387,
+    "introduction": [
+      "集群管理"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      5,
+      387,
+      393
+    ]
+  },
+  {
+    "id": 395,
+    "name": "云计算安全技术",
+    "father_id": 388,
+    "introduction": [
+      "云计算安全"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      5,
+      388,
+      395
+    ]
+  },
+  {
+    "id": 418,
+    "name": "机器视觉",
+    "father_id": 414,
+    "introduction": [
+      "机器视觉"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      414,
+      418
+    ]
+  },
+  {
+    "id": 419,
+    "name": "射频识别（RFID）",
+    "father_id": 414,
+    "introduction": [
+      "RFID",
+      "射频识别"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      414,
+      419
+    ]
+  },
+  {
+    "id": 421,
+    "name": "数据采集与监视控制系统（SCADA）",
+    "father_id": 414,
+    "introduction": [
+      "数据采集",
+      "SCADA",
+      "监视控制系统"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      414,
+      421
+    ]
+  },
+  {
+    "id": 422,
+    "name": "人机协同",
+    "father_id": 414,
+    "introduction": [
+      "人机协同"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      414,
+      422
+    ]
+  },
+  {
+    "id": 424,
+    "name": "自动化控制",
+    "father_id": 414,
+    "introduction": [
+      "自动化控制"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      414,
+      424
+    ]
+  },
+  {
+    "id": 425,
+    "name": "物流自动化",
+    "father_id": 414,
+    "introduction": [
+      "物流自动化"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      414,
+      425
+    ]
+  },
+  {
+    "id": 426,
+    "name": "可编程逻辑控制器（PLC）",
+    "father_id": 414,
+    "introduction": [
+      "可编程逻辑控制器",
+      "PLC"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      414,
+      426
+    ]
+  },
+  {
+    "id": 427,
+    "name": "现场总线控制系统",
+    "father_id": 414,
+    "introduction": [
+      "现场总线控制系统"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      414,
+      427
+    ]
+  },
+  {
+    "id": 428,
+    "name": "预测性维护",
+    "father_id": 415,
+    "introduction": [
+      "预测性维护"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      415,
+      428
+    ]
+  },
+  {
+    "id": 430,
+    "name": "智能制造应用-智能机器人",
+    "father_id": 415,
+    "introduction": [
+      "智能机器人",
+      "机器人"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      415,
+      430
+    ]
+  },
+  {
+    "id": 431,
+    "name": "协作机器人",
+    "father_id": 415,
+    "introduction": [
+      "协作机器人"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      6,
+      415,
+      431
+    ]
+  },
+  {
+    "id": 447,
+    "name": "传感器",
+    "father_id": 444,
+    "introduction": [
+      "transducer",
+      "传感器",
+      "sensor"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      447
+    ]
+  },
+  {
+    "id": 448,
+    "name": "芯片模组",
+    "father_id": 444,
+    "introduction": [
+      "MCM",
+      "芯片模组",
+      "Multi-chip module"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      448
+    ]
+  },
+  {
+    "id": 449,
+    "name": "感知节点",
+    "father_id": 444,
+    "introduction": [
+      "感知节点",
+      "Sensor Node"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      449
+    ]
+  },
+  {
+    "id": 450,
+    "name": "物联网芯片",
+    "father_id": 444,
+    "introduction": [
+      "IoT chip",
+      "物联网芯片"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      450
+    ]
+  },
+  {
+    "id": 451,
+    "name": "物联网处理器",
+    "father_id": 444,
+    "introduction": [
+      "IoT processor",
+      "物联网处理器"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      451
+    ]
+  },
+  {
+    "id": 452,
+    "name": "物联网嵌入式智能终端",
+    "father_id": 444,
+    "introduction": [
+      "物联网嵌入式智能终端",
+      "Embedded smart terminal"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      452
+    ]
+  },
+  {
+    "id": 453,
+    "name": "物联泛终端",
+    "father_id": 444,
+    "introduction": [
+      "Pan-terminal",
+      "物联泛终端  "
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      453
+    ]
+  },
+  {
+    "id": 454,
+    "name": "微机电系统",
+    "father_id": 444,
+    "introduction": [
+      "MEMS",
+      "Micro-Electro-Mechanical System",
+      "微机电系统"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      454
+    ]
+  },
+  {
+    "id": 455,
+    "name": "陀螺仪传感器",
+    "father_id": 444,
+    "introduction": [
+      "陀螺仪传感器",
+      "Gyroscope Sensor"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      455
+    ]
+  },
+  {
+    "id": 456,
+    "name": "无线通信芯片",
+    "father_id": 444,
+    "introduction": [
+      "无线通信芯片",
+      "Wireless communication chip"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      456
+    ]
+  },
+  {
+    "id": 457,
+    "name": "微控制单元",
+    "father_id": 444,
+    "introduction": [
+      "Microcontroller Unit",
+      "MCU",
+      "微控制单元"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      457
+    ]
+  },
+  {
+    "id": 458,
+    "name": "单片微型计算机",
+    "father_id": 444,
+    "introduction": [
+      "Single Chip Microcomputer",
+      "单片微型计算机"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      458
+    ]
+  },
+  {
+    "id": 459,
+    "name": "短距离通信芯片",
+    "father_id": 444,
+    "introduction": [
+      "短距离通信芯片",
+      "Short-range communication chip"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      459
+    ]
+  },
+  {
+    "id": 460,
+    "name": "低功耗蓝牙芯片",
+    "father_id": 444,
+    "introduction": [
+      "低功耗蓝牙芯片",
+      "Bluetooth Low Energy Chip"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      460
+    ]
+  },
+  {
+    "id": 461,
+    "name": "传统蜂窝通信芯片",
+    "father_id": 444,
+    "introduction": [
+      "cellular communication chip",
+      "传统蜂窝通信芯片"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      461
+    ]
+  },
+  {
+    "id": 462,
+    "name": "智能路侧单元",
+    "father_id": 444,
+    "introduction": [
+      "Road Side Unit",
+      "智能路侧单元"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      462
+    ]
+  },
+  {
+    "id": 463,
+    "name": "车载单元",
+    "father_id": 444,
+    "introduction": [
+      "车载单元",
+      "On Board Unit"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      463
+    ]
+  },
+  {
+    "id": 464,
+    "name": "边缘计算节点",
+    "father_id": 444,
+    "introduction": [
+      "边缘计算节点",
+      "Edge Computing Node"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      464
+    ]
+  },
+  {
+    "id": 465,
+    "name": "智能驾驶计算平台",
+    "father_id": 444,
+    "introduction": [
+      "Mobile Data Center",
+      "智能驾驶计算平台"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      465
+    ]
+  },
+  {
+    "id": 466,
+    "name": "移动智能终端",
+    "father_id": 444,
+    "introduction": [
+      "移动智能终端",
+      "Smart Phone ",
+      " Smart Device"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      444,
+      466
+    ]
+  },
+  {
+    "id": 467,
+    "name": "传感器技术",
+    "father_id": 445,
+    "introduction": [
+      "传感器技术",
+      "Sensor technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      467
+    ]
+  },
+  {
+    "id": 468,
+    "name": "传感网技术",
+    "father_id": 445,
+    "introduction": [
+      "传感网技术",
+      "Sensor network Technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      468
+    ]
+  },
+  {
+    "id": 469,
+    "name": "射频识别技术",
+    "father_id": 445,
+    "introduction": [
+      "RFID",
+      "射频识别技术",
+      "Radio Frequency Identification"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      469
+    ]
+  },
+  {
+    "id": 470,
+    "name": "中高频RFID技术",
+    "father_id": 445,
+    "introduction": [
+      "Medium and high frequency RFID technology",
+      "中高频RFID技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      470
+    ]
+  },
+  {
+    "id": 471,
+    "name": "标识编码和解析机制",
+    "father_id": 445,
+    "introduction": [
+      "Logo encoding and parsing mechanism",
+      "标识编码和解析机制"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      471
+    ]
+  },
+  {
+    "id": 472,
+    "name": "短距离通信技术",
+    "father_id": 445,
+    "introduction": [
+      "短距离通信技术",
+      "Short-range communication technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      472
+    ]
+  },
+  {
+    "id": 473,
+    "name": "无线传感器网络通信技术",
+    "father_id": 445,
+    "introduction": [
+      "无线传感器网络通信技术",
+      "Wireless sensor network technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      473
+    ]
+  },
+  {
+    "id": 474,
+    "name": "智能感知技术",
+    "father_id": 445,
+    "introduction": [
+      "Intelligent perception technology",
+      "智能感知技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      474
+    ]
+  },
+  {
+    "id": 475,
+    "name": "自动识别技术",
+    "father_id": 445,
+    "introduction": [
+      "Automatic Identification and Data Capture",
+      "自动识别技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      475
+    ]
+  },
+  {
+    "id": 476,
+    "name": "感知层短距离通信技术",
+    "father_id": 445,
+    "introduction": [
+      "感知层短距离通信技术",
+      "Perception layer short-range communication technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      476
+    ]
+  },
+  {
+    "id": 477,
+    "name": "低功耗蓝牙技术",
+    "father_id": 445,
+    "introduction": [
+      "低功耗蓝牙技术",
+      "Bluetooth Low Energy"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      477
+    ]
+  },
+  {
+    "id": 478,
+    "name": "泛在传感器网络",
+    "father_id": 445,
+    "introduction": [
+      "泛在传感器网络",
+      "USN",
+      "Ubiquitous Sensor Network"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      478
+    ]
+  },
+  {
+    "id": 479,
+    "name": "移动智能终端集成传感器",
+    "father_id": 445,
+    "introduction": [
+      "Mobile smart terminal integrated sensor",
+      "移动智能终端集成传感器"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      479
+    ]
+  },
+  {
+    "id": 480,
+    "name": "人机交互技术",
+    "father_id": 445,
+    "introduction": [
+      "Human-Computer Interaction Techniques",
+      "人机交互技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      480
+    ]
+  },
+  {
+    "id": 481,
+    "name": "大数据分析技术",
+    "father_id": 445,
+    "introduction": [
+      "Big data analysis technology",
+      "大数据分析技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      481
+    ]
+  },
+  {
+    "id": 482,
+    "name": "边缘计算技术",
+    "father_id": 445,
+    "introduction": [
+      "边缘计算技术",
+      "Edge Computing"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      482
+    ]
+  },
+  {
+    "id": 483,
+    "name": "低功耗广域网络技术",
+    "father_id": 445,
+    "introduction": [
+      "Low Power Wide Area",
+      "低功耗广域网络技术",
+      "LPWA"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      483
+    ]
+  },
+  {
+    "id": 484,
+    "name": "工业互联网云平台",
+    "father_id": 445,
+    "introduction": [
+      "工业互联网云平台",
+      "Industrial Internet Cloud Platform"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      484
+    ]
+  },
+  {
+    "id": 485,
+    "name": "云计算技术",
+    "father_id": 445,
+    "introduction": [
+      "云计算技术",
+      "Cloud Computing"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      485
+    ]
+  },
+  {
+    "id": 486,
+    "name": "高精度定位技术",
+    "father_id": 445,
+    "introduction": [
+      "High precision orientation",
+      "高精度定位技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      486
+    ]
+  },
+  {
+    "id": 487,
+    "name": "多源信息采集技术",
+    "father_id": 445,
+    "introduction": [
+      "多源信息采集技术",
+      "Multi-source information collection technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      487
+    ]
+  },
+  {
+    "id": 488,
+    "name": "区块链",
+    "father_id": 445,
+    "introduction": [
+      "Block Chain",
+      "区块链"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      488
+    ]
+  },
+  {
+    "id": 489,
+    "name": "信息安全",
+    "father_id": 445,
+    "introduction": [
+      "信息安全",
+      "Information security technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      489
+    ]
+  },
+  {
+    "id": 490,
+    "name": "云控技术",
+    "father_id": 445,
+    "introduction": [
+      "云控技术",
+      "Cloud control technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      490
+    ]
+  },
+  {
+    "id": 491,
+    "name": "融合感知与协同控制",
+    "father_id": 445,
+    "introduction": [
+      "Multi-perception fusion and collaborative control",
+      "融合感知与协同控制"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      491
+    ]
+  },
+  {
+    "id": 492,
+    "name": "资源优化调度",
+    "father_id": 445,
+    "introduction": [
+      "Resource scheduling",
+      "资源优化调度"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      445,
+      492
+    ]
+  },
+  {
+    "id": 493,
+    "name": "M2M服务",
+    "father_id": 446,
+    "introduction": [
+      "Machine-to-Machine",
+      "Man",
+      "M2M服务"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      493
+    ]
+  },
+  {
+    "id": 494,
+    "name": "车联网",
+    "father_id": 446,
+    "introduction": [
+      "Internet of Vehicles",
+      "车联网"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      494
+    ]
+  },
+  {
+    "id": 495,
+    "name": "智能交通系统",
+    "father_id": 446,
+    "introduction": [
+      "Intelligent Traffic System",
+      "智能交通系统",
+      "ITS"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      495
+    ]
+  },
+  {
+    "id": 496,
+    "name": "自动驾驶",
+    "father_id": 446,
+    "introduction": [
+      "自动驾驶",
+      "Autonomous Vehicles"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      496
+    ]
+  },
+  {
+    "id": 497,
+    "name": "智能网联汽车",
+    "father_id": 446,
+    "introduction": [
+      "智能网联汽车",
+      "Connected Vehicles"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      497
+    ]
+  },
+  {
+    "id": 498,
+    "name": "车路协同系统",
+    "father_id": 446,
+    "introduction": [
+      "Vehicle-road collaboration system",
+      "车路协同系统"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      498
+    ]
+  },
+  {
+    "id": 499,
+    "name": "无人运输系统",
+    "father_id": 446,
+    "introduction": [
+      "Unmanned transport system",
+      "无人运输系统"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      499
+    ]
+  },
+  {
+    "id": 500,
+    "name": "出行即服务系统",
+    "father_id": 446,
+    "introduction": [
+      "MaaS",
+      "Mobility as a Service",
+      "出行即服务系统"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      500
+    ]
+  },
+  {
+    "id": 502,
+    "name": "智能电网",
+    "father_id": 446,
+    "introduction": [
+      "Smart Grid",
+      "智能电网"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      502
+    ]
+  },
+  {
+    "id": 503,
+    "name": "可穿戴设备",
+    "father_id": 446,
+    "introduction": [
+      "可穿戴设备",
+      "Wearable device"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      503
+    ]
+  },
+  {
+    "id": 504,
+    "name": "智慧农业",
+    "father_id": 446,
+    "introduction": [
+      "智慧农业",
+      "Smart agriculture"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      504
+    ]
+  },
+  {
+    "id": 505,
+    "name": "智慧医疗",
+    "father_id": 446,
+    "introduction": [
+      "智慧医疗",
+      "Wise Information Technology of med"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      505
+    ]
+  },
+  {
+    "id": 506,
+    "name": "电子不停车收费系统",
+    "father_id": 446,
+    "introduction": [
+      "Electronic Toll Collection",
+      "ETC",
+      "电子不停车收费系统"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      506
+    ]
+  },
+  {
+    "id": 507,
+    "name": "智慧消防",
+    "father_id": 446,
+    "introduction": [
+      "Smart Fire",
+      "智慧消防"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      507
+    ]
+  },
+  {
+    "id": 508,
+    "name": "智慧城市",
+    "father_id": 446,
+    "introduction": [
+      "智慧城市",
+      "Smart City"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      508
+    ]
+  },
+  {
+    "id": 509,
+    "name": "智能家居",
+    "father_id": 446,
+    "introduction": [
+      "智能家居",
+      "smart home",
+      " home automation"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      7,
+      446,
+      509
+    ]
+  },
+  {
+    "id": 514,
+    "name": "5G管理和规划",
+    "father_id": 510,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      9,
+      510,
+      514
+    ]
+  },
+  {
+    "id": 576,
+    "name": "6G网络通信关键技术",
+    "father_id": 511,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      9,
+      511,
+      576
+    ]
+  },
+  {
+    "id": 577,
+    "name": "6G应用技术",
+    "father_id": 511,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      9,
+      511,
+      577
+    ]
+  },
+  {
+    "id": 578,
+    "name": "6G管理和规划",
+    "father_id": 511,
+    "introduction": [
+      ""
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      9,
+      511,
+      578
+    ]
+  },
+  {
+    "id": 647,
+    "name": "数据存储设备",
+    "father_id": 643,
+    "introduction": [
+      "数据存储设备",
+      "Data storage device"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      647
+    ]
+  },
+  {
+    "id": 648,
+    "name": "数据传输设备",
+    "father_id": 643,
+    "introduction": [
+      "Data transmission equipment",
+      "数据传输设备"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      648
+    ]
+  },
+  {
+    "id": 649,
+    "name": "网络通信设备",
+    "father_id": 643,
+    "introduction": [
+      "Network communication equipment",
+      "网络通信设备"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      649
+    ]
+  },
+  {
+    "id": 650,
+    "name": "网络基础设施",
+    "father_id": 643,
+    "introduction": [
+      "网络基础设施",
+      "Network infrastructure"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      650
+    ]
+  },
+  {
+    "id": 651,
+    "name": "主机",
+    "father_id": 643,
+    "introduction": [
+      "Host",
+      "主机"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      651
+    ]
+  },
+  {
+    "id": 652,
+    "name": "移动终端",
+    "father_id": 643,
+    "introduction": [
+      "Mobile terminal",
+      "移动终端"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      652
+    ]
+  },
+  {
+    "id": 653,
+    "name": "智能终端",
+    "father_id": 643,
+    "introduction": [
+      "智能终端",
+      "Intelligent Terminal"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      653
+    ]
+  },
+  {
+    "id": 654,
+    "name": "互联网平台",
+    "father_id": 643,
+    "introduction": [
+      "互联网平台",
+      "platform"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      654
+    ]
+  },
+  {
+    "id": 655,
+    "name": "通信基础设施",
+    "father_id": 643,
+    "introduction": [
+      "通信基础设施",
+      "communication infrastructure"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      655
+    ]
+  },
+  {
+    "id": 656,
+    "name": "固定宽带网络",
+    "father_id": 643,
+    "introduction": [
+      "固定宽带网络",
+      "Fixed broadband network"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      656
+    ]
+  },
+  {
+    "id": 657,
+    "name": "光纤",
+    "father_id": 643,
+    "introduction": [
+      "Optical fibre",
+      "光纤"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      657
+    ]
+  },
+  {
+    "id": 658,
+    "name": "移动宽带",
+    "father_id": 643,
+    "introduction": [
+      "移动宽带",
+      "Mobile broadband"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      658
+    ]
+  },
+  {
+    "id": 659,
+    "name": "光缆",
+    "father_id": 643,
+    "introduction": [
+      "optical fiber cable",
+      "光缆"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      659
+    ]
+  },
+  {
+    "id": 660,
+    "name": "计算机网络",
+    "father_id": 643,
+    "introduction": [
+      "计算机网络"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      643,
+      660
+    ]
+  },
+  {
+    "id": 661,
+    "name": "传感技术",
+    "father_id": 644,
+    "introduction": [
+      "传感技术",
+      "sensor technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      661
+    ]
+  },
+  {
+    "id": 662,
+    "name": "通信技术",
+    "father_id": 644,
+    "introduction": [
+      "Communications technology",
+      "通信技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      662
+    ]
+  },
+  {
+    "id": 663,
+    "name": "计算机技术",
+    "father_id": 644,
+    "introduction": [
+      "Computer Technology",
+      "计算机技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      663
+    ]
+  },
+  {
+    "id": 664,
+    "name": "云计算",
+    "father_id": 644,
+    "introduction": [
+      "云计算",
+      "cloud computing"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      664
+    ]
+  },
+  {
+    "id": 665,
+    "name": "大数据",
+    "father_id": 644,
+    "introduction": [
+      "big data",
+      "大数据"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      665
+    ]
+  },
+  {
+    "id": 666,
+    "name": "互联网协议第6版",
+    "father_id": 644,
+    "introduction": [
+      "IPv6",
+      "互联网协议第6版",
+      "Internet Protocol Version 6"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      666
+    ]
+  },
+  {
+    "id": 667,
+    "name": "互联网通信协议第四版",
+    "father_id": 644,
+    "introduction": [
+      "IPv4",
+      "Internet Protocol version 4",
+      "互联网通信协议第四版"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      667
+    ]
+  },
+  {
+    "id": 668,
+    "name": "智能终端制造技术",
+    "father_id": 644,
+    "introduction": [
+      "Intelligent terminal manufacturing technology",
+      "智能终端制造技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      668
+    ]
+  },
+  {
+    "id": 669,
+    "name": "终端硬件平台技术",
+    "father_id": 644,
+    "introduction": [
+      "终端硬件平台技术",
+      "Terminal hardware platform technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      669
+    ]
+  },
+  {
+    "id": 670,
+    "name": "终端软件平台技术",
+    "father_id": 644,
+    "introduction": [
+      "终端软件平台技术",
+      "Terminal software platform technology"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      670
+    ]
+  },
+  {
+    "id": 671,
+    "name": "网络服务平台技术",
+    "father_id": 644,
+    "introduction": [
+      "Application Service Platform Technology",
+      "网络服务平台技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      671
+    ]
+  },
+  {
+    "id": 672,
+    "name": "应用服务平台技术",
+    "father_id": 644,
+    "introduction": [
+      "Application Service Platform Technology",
+      "应用服务平台技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      672
+    ]
+  },
+  {
+    "id": 673,
+    "name": "网络安全技术",
+    "father_id": 644,
+    "introduction": [
+      "Cyber security technology",
+      "网络安全技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      673
+    ]
+  },
+  {
+    "id": 674,
+    "name": "第二代互联网",
+    "father_id": 644,
+    "introduction": [
+      "Web2.0",
+      "第二代互联网"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      674
+    ]
+  },
+  {
+    "id": 675,
+    "name": "超文本标记语言",
+    "father_id": 644,
+    "introduction": [
+      "Hyper Text Markup Language",
+      "超文本标记语言",
+      "HTML"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      675
+    ]
+  },
+  {
+    "id": 676,
+    "name": "面向服务的架构",
+    "father_id": 644,
+    "introduction": [
+      "SOA",
+      "Service-Oriented Architecture",
+      "面向服务的架构"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      676
+    ]
+  },
+  {
+    "id": 677,
+    "name": "软件即服务",
+    "father_id": 644,
+    "introduction": [
+      "软件即服务",
+      "SaaS",
+      "Hyper Text Markup Language"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      677
+    ]
+  },
+  {
+    "id": 678,
+    "name": "第五代移动通信技术",
+    "father_id": 644,
+    "introduction": [
+      "5th generation mobile networks或5th generation wireless systems",
+      "5th-Generation",
+      "5G",
+      "第五代移动通信技术"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      678
+    ]
+  },
+  {
+    "id": 679,
+    "name": "边缘计算",
+    "father_id": 644,
+    "introduction": [
+      "边缘计算",
+      "Edge Computing"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      679
+    ]
+  },
+  {
+    "id": 680,
+    "name": "标识解析",
+    "father_id": 644,
+    "introduction": [
+      "Identification Resolution",
+      "标识解析"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      680
+    ]
+  },
+  {
+    "id": 681,
+    "name": "增强现实，虚拟现实",
+    "father_id": 644,
+    "introduction": [
+      "Virtual Reality",
+      "VR",
+      "增强现实",
+      "Augmented Reality",
+      "虚拟现实AR"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      681
+    ]
+  },
+  {
+    "id": 682,
+    "name": "数字孪生",
+    "father_id": 644,
+    "introduction": [
+      "数字孪生",
+      "Digital Twins"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      682
+    ]
+  },
+  {
+    "id": 683,
+    "name": "知识图谱",
+    "father_id": 644,
+    "introduction": [
+      "Knowledge Graph",
+      "知识图谱"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      644,
+      683
+    ]
+  },
+  {
+    "id": 684,
+    "name": "新零售",
+    "father_id": 645,
+    "introduction": [
+      "新零售",
+      "New Retailing"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      645,
+      684
+    ]
+  },
+  {
+    "id": 685,
+    "name": "区块链",
+    "father_id": 645,
+    "introduction": [
+      "区块链",
+      "Blockchain"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      645,
+      685
+    ]
+  },
+  {
+    "id": 686,
+    "name": "电商直播",
+    "father_id": 645,
+    "introduction": [
+      "E-commerce live broadcast",
+      "电商直播"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      645,
+      686
+    ]
+  },
+  {
+    "id": 687,
+    "name": "电子商务",
+    "father_id": 645,
+    "introduction": [
+      "电子商务",
+      "E-commerce"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      645,
+      687
+    ]
+  },
+  {
+    "id": 688,
+    "name": "产业互联网，工业互联网",
+    "father_id": 645,
+    "introduction": [
+      "工业互联网",
+      "Industrial Internet",
+      "产业互联网"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      645,
+      688
+    ]
+  },
+  {
+    "id": 689,
+    "name": "移动互联网",
+    "father_id": 645,
+    "introduction": [
+      "移动互联网",
+      "Mobile Internet"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      645,
+      689
+    ]
+  },
+  {
+    "id": 690,
+    "name": "数字经济",
+    "father_id": 645,
+    "introduction": [
+      "数字经济",
+      "Digital economy"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      645,
+      690
+    ]
+  },
+  {
+    "id": 691,
+    "name": "数字化转型",
+    "father_id": 645,
+    "introduction": [
+      "数字化转型",
+      "Digital transformation"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      10,
+      645,
+      691
+    ]
+  },
+  {
+    "id": 707,
+    "name": "机器学习",
+    "father_id": 701,
+    "introduction": [
+      "BiRNN",
+      "Transfer learning",
+      "降维算法",
+      "神经图灵机",
+      "决策树",
+      "KNN",
+      "multilayer perceptron",
+      "Decision Tree",
+      "回归",
+      "bidirectional long ",
+      "多层感知器",
+      "Echo state networks",
+      "Extreme learning machines",
+      "回声状态网络",
+      "Markov Chain",
+      "极限学习机",
+      " MC",
+      "MLP",
+      "递归张量神经网络 ",
+      "受限玻尔兹曼机 ",
+      "Deep convolutional inverse graphics networks",
+      "集成方法",
+      "Bayesian algoritm",
+      "对抗机器学习",
+      "贝叶斯",
+      "解卷积网络",
+      "RNN",
+      "GAN",
+      "循环神经网络",
+      "脉冲神经网络",
+      "门循环单元",
+      "深度信念网络",
+      "bidirectional gated recurrent units",
+      "双向循环神经网络",
+      "双向长短期记忆网络",
+      " SVM",
+      "AutoEncoder",
+      "双向门控循环单元",
+      "BiLSTM",
+      "全连接神经网络",
+      "马尔可夫链",
+      "强化学习",
+      "DNN",
+      "Deep Neural Networks",
+      " 两层神经网络",
+      "recursive neural network",
+      "卷积神经网络",
+      "SVD",
+      "神经网络",
+      " short term memory networks",
+      "GRU ",
+      "深度卷积逆向图网络",
+      "RNTN",
+      "生成式对抗网络",
+      "DBN",
+      "关联规则算法",
+      "Spiking Neuron Networks",
+      "Generative adversarial networks",
+      "深度残差网络",
+      "Adversarial Machine Learning",
+      "CNN",
+      "ESN",
+      "NN",
+      "单层神经网络",
+      "Neural Networks",
+      "深度神经网络",
+      " Gated recurrent units",
+      "ELM",
+      "Deconvolutional networks",
+      "BiGRU",
+      "感知器",
+      "Perceptron",
+      "k-Nearest Neighbor",
+      "多层感知机",
+      "Support Vector Machine",
+      "Deep belief network",
+      "迁移学习",
+      "Singular Value Decomposition",
+      "K近邻",
+      "Clustering Algorithms",
+      " Neural Turing machines",
+      "DCIGN",
+      "LSTM",
+      "SNN",
+      "Recurrent Neural Network",
+      "DRN",
+      "奇异值分解",
+      "递归神经网络",
+      "支持向量机",
+      "Long Short-Term Memory",
+      "Bidirectional recurrent neural networks",
+      "Regression",
+      " Deep residual networks",
+      "聚类算法",
+      "RBM",
+      "Convolutional Neural Networks",
+      "多层神经网络",
+      "Dimensionality Reduction Algorithms",
+      "NTM",
+      "长短期记忆网络",
+      "Association Rule Learning Algorithm",
+      "DN",
+      "Ensemble methods",
+      "Reinforcement Learning",
+      "自动编码器 ",
+      "Fully connected neural network"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      11,
+      701,
+      707
+    ]
+  },
+  {
+    "id": 709,
+    "name": "智能手机",
+    "father_id": 702,
+    "introduction": [
+      "智能手机",
+      "Smart Phone"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      11,
+      702,
+      709
+    ]
+  },
+  {
+    "id": 710,
+    "name": "高级驾驶辅助系统",
+    "father_id": 702,
+    "introduction": [
+      "高级驾驶辅助系统",
+      "ADAS",
+      "Advanced Driver Assistance System"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      11,
+      702,
+      710
+    ]
+  },
+  {
+    "id": 711,
+    "name": "计算机视觉",
+    "father_id": 702,
+    "introduction": [
+      "CV",
+      "计算机视觉",
+      "Computer Vision"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      11,
+      702,
+      711
+    ]
+  },
+  {
+    "id": 712,
+    "name": "语音交互设备",
+    "father_id": 702,
+    "introduction": [
+      "语音交互设备",
+      "Voice interactive equipment"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      11,
+      702,
+      712
+    ]
+  },
+  {
+    "id": 713,
+    "name": "机器人",
+    "father_id": 702,
+    "introduction": [
+      "Robot",
+      "机器人"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      11,
+      702,
+      713
+    ]
+  },
+  {
+    "id": 714,
+    "name": "智慧交通",
+    "father_id": 702,
+    "introduction": [
+      "智慧交通"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      11,
+      702,
+      714
+    ]
+  },
+  {
+    "id": 716,
+    "name": "智慧城市",
+    "father_id": 702,
+    "introduction": [
+      "智慧城市"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      11,
+      702,
+      716
+    ]
+  },
+  {
+    "id": 717,
+    "name": "电子支付",
+    "father_id": 702,
+    "introduction": [
+      "电子支付"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      11,
+      702,
+      717
+    ]
+  },
+  {
+    "id": 718,
+    "name": "自动问答系统，虚拟客服，虚拟主持人",
+    "father_id": 702,
+    "introduction": [
+      "自动问答系统",
+      "虚拟客服",
+      "虚拟主持人"
+    ],
+    "ceng_ji": 4,
+    "path": [
+      1,
+      11,
+      702,
+      718
+    ]
+  }
+]
